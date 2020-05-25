@@ -16,12 +16,7 @@
         position: absolute;
 
     }
-    header::after{
-        content: url(../img/slider2.png);
-        position: absolute;
-        margin-top: 100px;
-        margin-left: 660px;
-    }
+
 
 .content{ 
     width: 100%;
@@ -30,18 +25,7 @@
     width: 728px;
 }
 
-.some_messages::after{
-         
-    position: absolute;
-    margin-left: 80px;
-    margin-top: 45px;
-    content: "";
-    width: 0;
-    height: 0;
-    border-style: solid;
-    border-width: 0 21px 21px 0;
-    border-color: transparent #ffffff transparent transparent;
-}
+
 
 .READ-more-here a {
     font-family: 'Oswald', sans-serif;
